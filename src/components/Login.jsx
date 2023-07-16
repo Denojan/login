@@ -208,7 +208,7 @@ toast.success("Login successfully");
              
               <h6 className="text-white text-sm mt-4 ">
                 Don't have an account?{" "}
-                <a className="text-[#E65F2B]" href="/register">
+                <a className="text-[#E65F2B]" href="/login/register">
                   Signup Here{" "}
                 </a>
               </h6>
